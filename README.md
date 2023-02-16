@@ -19,11 +19,17 @@ This repo does not contain a vertual machine, so be sure to install one before s
 
 ### On mac:
 To install a venv:
+
 pip install virtualenv
 
-To turn it on:
+To create a machine for the file:
+
 cd my-project/
+
 virtualenv venv
+
+To turn it on:
+
 source venv/bin/activate
 
 ### On windows or Linux:
