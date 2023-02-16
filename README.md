@@ -52,3 +52,7 @@ The program will extract any text from the image and save it to a file named out
 You can also specify a different output file name by using the -o or --output flag, like this:
 
 python converter.py path/to/image.jpg -o output.txt
+
+For tesseract documentation, visit site:
+
+https://tesseract-ocr.github.io/tessdoc/Installation.html
