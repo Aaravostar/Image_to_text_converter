@@ -14,6 +14,3 @@ text = pytesseract.image_to_string(image)
 # Save text into a txt.file
 with open('output.txt', 'w') as file:
     file.write(text)
-
-# Print the extracted text
-# print(text)

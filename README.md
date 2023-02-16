@@ -1,4 +1,4 @@
-# Welcome to your awesome OCR Image-to-Text Converter!
+# My awesome (very basic) OCR Image-to-Text Converter 🤟🏻
 
 This is a Python program that uses the Tesseract OCR library to extract text from an image file and save it to a text file.
 
@@ -53,6 +53,7 @@ You can also specify a different output file name by using the -o or --output fl
 
 python converter.py path/to/image.jpg -o output.txt
 
-For tesseract documentation, visit site:
+## Teseract
+### For tesseract documentation, visit site:
 
 https://tesseract-ocr.github.io/tessdoc/Installation.html
